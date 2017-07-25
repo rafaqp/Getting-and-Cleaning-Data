@@ -1,6 +1,6 @@
-Code Book
+# Code Book
 
-Variables
+# Variables
 
 •	xtrain, ytrain, xtest, ytest, subjecttrain, subjecttest : data from files.
 •	xdata, ydata, subject_data : merged data.
@@ -10,13 +10,13 @@ Variables
 •	tidy :  averages stored in tidy.txt file.
 
 
-Identifiers in tidy.txt
+# Identifiers in tidy.txt
 
 •	subject 
 •	activity 
 
 
-Measurements in tidy.txt
+# Measurements in tidy.txt
 
 •	tBodyAcc-mean()-X
 •	tBodyAcc-mean()-Y
@@ -86,7 +86,7 @@ Measurements in tidy.txt
 •	fBodyBodyGyroJerkMag-std()
 
 
-Activity Labels in tidy.txt
+# Activity Labels in tidy.txt
 
 •	WALKING 
 •	WALKING_UPSTAIRS 
