@@ -2,8 +2,8 @@
 
 # Variables
 
-·	xtrain, ytrain, xtest, ytest, subjecttrain, subjecttest : data from files.
-·	xdata, ydata, subject_data : merged data.
+•	xtrain, ytrain, xtest, ytest, subjecttrain, subjecttest : data from files.
+•	xdata, ydata, subject_data : merged data.
 •	features 
 •	activities 
 •	alldata : merges xdata, y_data and subject_data.
